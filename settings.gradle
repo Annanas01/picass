@@ -1,0 +1,2 @@
+rootProject.name='picass'
+include ':app'
